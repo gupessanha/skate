@@ -10,6 +10,10 @@ python-dotenv = "*"
 pyvista = {extras = ["all"], version = "*"}
 numpy = "*"
 pandas = "*"
+seaborn = "*"
+matplotlib = "*"
+filterpy = "*"
+scipy = "*"
 
 [dev-packages]
 ipykernel = "*"
