@@ -12,6 +12,8 @@ numpy = "*"
 pandas = "*"
 seaborn = "*"
 matplotlib = "*"
+filterpy = "*"
+scipy = "*"
 
 [dev-packages]
 ipykernel = "*"
